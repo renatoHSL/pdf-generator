@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0dda4b3-98e5-409d-b3fd-0085fb8cf2f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/output.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf-generator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf-generator/output.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf-reader-csv/Invoices/10001-2023.1.18.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf-reader-csv/Invoices/10002-2023.1.18.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf-reader-csv/Invoices/10003-2023.1.18.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf-reader-csv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pdf-generator/topics.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +54,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\renat\ProjetosTI\Python_60_days\pdf-generator\pdf-generator" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="dadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pdf-generator" />
@@ -83,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\renat\ProjetosTI\Python_60_days\pdf-generator\pdf-generator\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
