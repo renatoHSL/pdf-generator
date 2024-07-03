@@ -16,8 +16,8 @@ for index, row in df.iterrows():
     pdf.line(10, 21, 200, 21)
 
     # Add multiples lines
-    # for i in range(10):
-    #     pdf.line(10, 21, 200, 21)
+    for i in range(10):
+        pdf.line(10, 21, 200, 21)
 
     # Set the footer
     pdf.ln(265)
